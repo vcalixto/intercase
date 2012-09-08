@@ -12,3 +12,4 @@ magento/var/session/*
 .project
 .buildpath
 .settings/
+/var/
