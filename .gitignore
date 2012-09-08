@@ -13,3 +13,10 @@ magento/var/session/*
 .buildpath
 .settings/
 /var/
+/downloader/.cache/
+/downloader/
+/app/code/community/Magneto/Debug/
+/app/design/frontend/base/default/layout/debug.xml
+/app/design/frontend/base/default/template/debug/
+/app/etc/modules/Magneto_Debug.xml
+/skin/frontend/base/default/debug/
