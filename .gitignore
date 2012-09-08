@@ -1,0 +1,14 @@
+magento/var/*
+magento/app/etc/local.xml
+magento/var/cache/*
+magento/var/full_page_cache/*
+magento/var/locks/*
+magento/var/log/*
+magento/var/session/*
+/magento/media2/wysiwyg/.thumbs/
+/magento/nbproject/private/
+/magento/downloader/.cache/
+/magento/app/code/local/Unleaded/Homepage/etc/_svn/
+.project
+.buildpath
+.settings/
